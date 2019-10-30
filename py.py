@@ -1,8 +1,7 @@
 import discord
 
 client = discord.Client()
-sID = 588340346400931862
-cID = 598702333203054592 
+
 message_list = {
   598422104865505285: [],
   605419391496093696: [],
